@@ -7,12 +7,15 @@ Step 1: Install Python
 1.	Download the latest version from:
 https://www.python.org/downloads/
 2.	During installation:
+
 o	Check Install for all users
+
 o	Check Add Python to PATH
+
 o	Click Install Now
-3.	Approve installation permissions when prompted.
-4.	Disable the Path Length Limit to avoid directory path errors (important if path exceeds 260 characters).
-5.	Close the installer once completed.
+4.	Approve installation permissions when prompted.
+5.	Disable the Path Length Limit to avoid directory path errors (important if path exceeds 260 characters).
+6.	Close the installer once completed.
 
 Step 2: Install Anaconda Navigator
 1.	Download from:
