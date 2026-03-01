@@ -1,4 +1,5 @@
 Windows Python Environment Setup Guide
+
 This repository provides a step-by-step guide for installing and configuring Python, Anaconda, and Jupyter Notebook on Windows.
 The guide is designed for beginners and university lab environments to ensure proper setup before starting Python development and data science projects.
 
