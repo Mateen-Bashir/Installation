@@ -51,7 +51,11 @@ Professional IDE focused on software development with debugging and refactoring 
 Purpose
 
 This setup ensures:
+
 •	Proper Python configuration
+
 •	Correct environment variable setup
+
 •	Access to Jupyter Notebook
+
 •	Compatibility for data science and machine learning tasks
